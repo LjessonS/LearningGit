@@ -1,1 +1,1 @@
-I am Sam and I like ham and some people call me sam. This is our first commit.
+buck is a sb.
